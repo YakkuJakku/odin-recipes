@@ -1,2 +1,2 @@
 # odin-recipes
-This is the first website assignment as part of the Odin Project. It provides the opportunity to show proper folder structure and file naming, as well as the use of Git and GitHub. In addition, each page uses standard HTML, including head and body, heading levels, paragraph text, ordered and unordered lists, and images with alt text.
+This is the first website assignment as part of the Odin Project. It provides the opportunity to show proper folder structure and file naming, as well as the use of Git and GitHub. In addition, pages use standard HTML, including head and body, heading levels, paragraph text, ordered and unordered lists, images with alt text, and links to other pages.
