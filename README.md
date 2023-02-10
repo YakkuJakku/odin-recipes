@@ -1,3 +1,2 @@
 # odin-recipes
-To be completed at the end of the project:
-"Set up your README.md file and write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)"
+This is the first website assignment as part of the Odin Project. It provides the opportunity to show proper folder structure and file naming, as well as the use of Git and GitHub. In addition, each page uses standard HTML, including head and body, heading levels, paragraph text, ordered and unordered lists, and images with alt text.
