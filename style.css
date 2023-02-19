@@ -1,0 +1,41 @@
+* {
+  color: rgb(139, 0, 0);
+  font-family: "Georgia", "Times New Roman", serif;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+.site-title {
+  text-align: center;
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-style: italic;
+  font-size: 60px;
+}
+
+.recipe-link {
+  font-size: 24px;
+}
+
+.recipe-title {
+  font-style: italic;
+  font-size: 48px;
+}
+
+.recipe-subhead {
+  font-family: "Helvetica", "Arial", sans-serif;
+  font-size: 36px;
+}
+
+.text {
+  font-size: 20px;
+}
+
+.description-text {
+  font-style: italic;
+}
+
+.list-text {
+  font-family: "Helvetica", "Arial", sans-serif;
+}
