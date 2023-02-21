@@ -17,7 +17,7 @@ color: rgb(72, 61, 139, 1.0);
 
 #site-title {
   text-align: center;
-  font-family: "Helvetica", "Arial", sans-serif;
+  font-family: "Brush Script MT", "Helvetica", "Arial", sans-serif;
   font-style: italic;
   font-size: 60px;
 }
@@ -45,19 +45,15 @@ color: rgb(72, 61, 139, 1.0);
   font-style: italic;
 }
 
-ul,
-ul .list-text {
-  color: rgb(150, 150, 0);
-}
-
 .list-text {
   font-family: "Helvetica", "Arial", sans-serif;
 }
 
 .list-text > li {
   color: black;
+  font-family: "Verdana", "Tahoma", "Arial", sans-serif;
 }
 
 .text.list-text {
-  color: rgb(0, 50, 0);
+  color: rgb(0, 100, 0);
 }
